@@ -8,7 +8,7 @@ import librosa.display
 
 def main():
 
-    input_path = './noisy_white_3dB.wav'
+    input_path = './wav_files/noisy_white_3dB.wav'
     output_path = input_path.split('.wav')[0] + '_enhanced_svd.wav'
     wav, sample_rate = audio.load_wav(input_path, sr=None)
     wav = wav / np.abs(wav).max() * 0.999

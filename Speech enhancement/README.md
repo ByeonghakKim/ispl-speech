@@ -1,5 +1,8 @@
 # Speech enhancement
 
+<center><img src="./image/pic1.png"></center>
+
+
 
 ## Developers
 * Younglo Lee (yllee@ispl.korea.ac.kr)
@@ -7,7 +10,7 @@
 
 ## Contents
   * [Contents](#contents)
-  * [Spectral subtracion](#spectral subtraction)
+  * [Spectral subtracion](#spectralsubtraction)
   * [MMSE estimator](#mmseestimator)
   * [Subspace method](#subspacemethod)
   * [References](#references)

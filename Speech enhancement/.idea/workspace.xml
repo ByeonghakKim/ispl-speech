@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aee0680-8273-4ee5-ad8a-7bbe692fd93d" name="Default Changelist" comment="" />
+    <list default="true" id="6aee0680-8273-4ee5-ad8a-7bbe692fd93d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Speech_Enhancement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Speech_Enhancement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmse_stsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmse_stsa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/noisy_white_3dB.wav" beforeDir="false" afterPath="$PROJECT_DIR$/wav_files/noisy_white_3dB.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.wav" beforeDir="false" afterPath="$PROJECT_DIR$/wav_files/sample.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spectral_subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/spectral_subtraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svd.py" beforeDir="false" afterPath="$PROJECT_DIR$/svd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/noise_estimation.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/noise_estimation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/speech_enhancement.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/speech_enhancement.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +50,7 @@
         <entry file="file://$PROJECT_DIR$/spectral_subtraction.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -54,10 +59,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svd.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -68,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/speech_enhancement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+            <state relative-caret-position="162">
+              <caret line="125" column="15" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="15" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -96,50 +110,58 @@
       <find>Ek</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/utils/estnoisem.py" />
         <option value="$PROJECT_DIR$/utils/noise_estimation.py" />
         <option value="$PROJECT_DIR$/datasets/audio.py" />
-        <option value="$PROJECT_DIR$/mmse_stsa.py" />
-        <option value="$PROJECT_DIR$/spectral_subtraction.py" />
         <option value="$PROJECT_DIR$/utils/speech_enhancement.py" />
         <option value="$PROJECT_DIR$/svd.py" />
+        <option value="$PROJECT_DIR$/mmse_stsa.py" />
+        <option value="$PROJECT_DIR$/spectral_subtraction.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="58" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1870" />
+    <option name="width" value="1874" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Speech_Enhancement" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Speech_Enhancement" type="462c0819:PsiDirectoryNode" />
+              <item name="Speech enhancement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Speech enhancement" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\ispl-speech\ispl-speech\Speech enhancement\wav_files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\deeplearning_codes_180601\audioprocessing_yllee\Speech_Enhancement" />
     </key>
@@ -156,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.svd">
+  <component name="RunManager" selected="Python.mmse_stsa">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Speech_Enhancement" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,9 +297,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mmse_stsa" />
         <item itemvalue="Python.svd" />
         <item itemvalue="Python.spectral_subtraction" />
-        <item itemvalue="Python.mmse_stsa" />
         <item itemvalue="Python.speech_enhancement" />
       </list>
     </recent_temporary>
@@ -302,21 +324,22 @@
       <workItem from="1554192502269" duration="3888000" />
       <workItem from="1554196424698" duration="259000" />
       <workItem from="1554196838117" duration="258000" />
+      <workItem from="1555411591417" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46166000" />
+    <option name="totallyTimeSpent" value="46237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="-8" width="1870" height="1096" extended-state="6" />
+    <frame x="1912" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14972375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15104741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.72983426" weight="0.403946" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.72983426" weight="0.4033264" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8154696" weight="0.40186915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +355,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="417" height="896" id="Documentation" order="3" sideWeight="0.5005192" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Database" order="4" weight="0.32983425" />
-      <window_info active="true" anchor="right" id="SciView" order="5" sideWeight="0.49948078" visible="true" weight="0.26077348" />
+      <window_info active="true" anchor="right" id="SciView" order="5" sideWeight="0.49948078" visible="true" weight="0.26074973" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,6 +364,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Speech_Enhancement$svd.coverage" NAME="svd Coverage Results" MODIFIED="1554197022105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Speech_Enhancement$spectral_subtraction.coverage" NAME="spectral_subtraction Coverage Results" MODIFIED="1554195958742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Speech_enhancement$mmse_stsa.coverage" NAME="mmse_stsa Coverage Results" MODIFIED="1555411647241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Speech_Enhancement$mmse_stsa.coverage" NAME="mmse_stsa Coverage Results" MODIFIED="1554195927598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="debuggerHistoryManager">
@@ -436,10 +460,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
+    <entry file="file://$USER_HOME$/Desktop/SVD/SVD_speech_enhancement.ipynb" />
+    <entry file="file://$PROJECT_DIR$/svd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="115">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -449,7 +474,7 @@
     <entry file="file://$PROJECT_DIR$/spectral_subtraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -458,24 +483,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/speech_enhancement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="136" column="8" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="8" />
+        <state relative-caret-position="162">
+          <caret line="125" column="15" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/SVD/SVD_speech_enhancement.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/svd.py">
+    <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>

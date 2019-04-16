@@ -9,7 +9,7 @@ import librosa.display
 def main():
     process_type = '1'
 
-    input_path = './sample.wav'
+    input_path = './wav_files/sample.wav'
     output_path = input_path.split('.wav')[0] + '_enhanced_mmse' + process_type + '.wav'
     wav, sample_rate = audio.load_wav(input_path, sr=None)
     wav = wav / np.abs(wav).max() * 0.999
