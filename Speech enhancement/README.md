@@ -1,20 +1,25 @@
-# Intelligent signal processing laboratory @ korea university
-
-<center><img src="./image/logo1.jpg"></center>
+# Speech enhancement
 
 
-
-## Members
+## Developers
 * Younglo Lee (yllee@ispl.korea.ac.kr)
-* Byeonghak Kim (bhkim@ispl.korea.ac.kr)
-* Donghyeon Kim (dhkim_2@ispl.korea.ac.kr)
-* Jeongki Min (jkmin@ispl.korea.ac.kr)
 * Gwantae Kim (gtkim@ispl.korea.ac.kr)
 
 ## Contents
   * [Contents](#contents)
-  * [Acoustic feature extraction](#feature)
-  * [Speech enhancement](#speechenhancement)
-  * [Speech synthesis](#speechsynthesis)
-    * [Training times](#training-times)
-    * [Evaluation results](#evaluation-results)
+  * [Spectral subtracion](#spectral subtraction)
+  * [MMSE estimator](#mmseestimator)
+  * [Subspace method](#subspacemethod)
+  * [References](#references)
+    
+## Spectral subtraction
+Python implementation of spectral subtraction [1]
+
+## MMSE estimator
+Python implementation of minimum mean squared error estimator [1]
+
+## Subspace method
+Python implementation of SVD-based subspace algorithm [1]
+
+## References
+[1] Loizou, Philipos C. Speech enhancement: theory and practice. CRC press, 2007.
