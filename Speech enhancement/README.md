@@ -10,7 +10,7 @@
 
 ## Contents
   * [Contents](#contents)
-  * [Spectral subtracion](#spectral subtraction)
+  * [Spectral subtracion](#spectralsubtraction)
   * [MMSE estimator](#mmseestimator)
   * [Subspace method](#subspacemethod)
   * [References](#references)
