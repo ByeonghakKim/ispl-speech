@@ -1,6 +1,9 @@
 # Intelligent signal processing laboratory @ korea university
 
-<strong><img src="./image/logo1.jpg"></strong>
+<style>
+	div { text-align: center; }
+</style>
+<center><img src="./image/logo1.jpg"></center>
 
 
 
