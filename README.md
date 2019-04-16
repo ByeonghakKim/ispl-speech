@@ -14,6 +14,6 @@
   * [Contents](#contents)
   * [Acoustic feature extraction](#feature)
   * [Speech enhancement](#speechenhancement)
-  * [Speech synthesis](#speecn synthesis)
+  * [Speech synthesis](#speechsynthesis)
     * [Training times](#training-times)
     * [Evaluation results](#evaluation-results)
