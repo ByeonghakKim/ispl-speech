@@ -1,4 +1,4 @@
-# Intelligent signal processing laboratory @ korea university
+# Intelligent signal processing laboratory @ Korea university
 
 <a href=http://ispl.korea.ac.kr><center><img src="./image/logo1.jpg"></center></a>
 
