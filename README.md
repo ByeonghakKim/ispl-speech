@@ -15,7 +15,7 @@
 ## Contents
   * [Contents](#contents)<br/>
   * <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Acoustic%20feature%20extraction>
-     [Acoustic feature extraction](#feature)
+     [Acoustic feature extraction]
     </a><br/>
   * <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement>
      [Speech enhancement]
