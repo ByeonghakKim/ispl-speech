@@ -14,8 +14,8 @@
 
 ## Contents
   * [Contents](#contents)
-  * [Acoustic feature extraction](#feature)
-  <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement>* [Speech enhancement](#speechenhancement)</a>
+  * [Acoustic feature extraction](#feature)<br/>
+  <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement>[Speech enhancement](#speechenhancement)</a>
   * [Speech synthesis](#speechsynthesis)
     * [Training times](#training-times)
     * [Evaluation results](#evaluation-results)
