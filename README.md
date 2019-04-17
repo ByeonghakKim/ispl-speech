@@ -13,9 +13,13 @@
 * Gwantae Kim (gtkim@ispl.korea.ac.kr)
 
 ## Contents
-  * [Contents](#contents)
-  * [Acoustic feature extraction](#feature)<br/>
-  * <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement>[Speech enhancement]</a>
+  * [Contents](#contents)<br/>
+  * <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Acoustic%20feature%20extraction>
+     [Acoustic feature extraction](#feature)
+    </a><br/>
+  * <a href=https://github.com/ByeonghakKim/ispl-speech/tree/master/Speech%20enhancement>
+     [Speech enhancement]
+    </a><br/>
   * [Speech synthesis](#speechsynthesis)
     * [Training times](#training-times)
     * [Evaluation results](#evaluation-results)
