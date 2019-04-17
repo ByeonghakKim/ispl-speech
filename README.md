@@ -1,6 +1,6 @@
 # Intelligent signal processing laboratory @ korea university
 
-<center><img src="./image/logo1.jpg"></center>
+<a href=http://ispl.korea.ac.kr><center><img src="./image/logo1.jpg"></center></a>
 
 
 
