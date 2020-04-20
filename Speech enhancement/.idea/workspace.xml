@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aee0680-8273-4ee5-ad8a-7bbe692fd93d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Speech_Enhancement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Speech_Enhancement.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets/audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/audio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mmse_stsa.py" beforeDir="false" afterPath="$PROJECT_DIR$/mmse_stsa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noisy_white_3dB.wav" beforeDir="false" afterPath="$PROJECT_DIR$/wav_files/noisy_white_3dB.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.wav" beforeDir="false" afterPath="$PROJECT_DIR$/wav_files/sample.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spectral_subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/spectral_subtraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svd.py" beforeDir="false" afterPath="$PROJECT_DIR$/svd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/noise_estimation.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/noise_estimation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/speech_enhancement.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/speech_enhancement.py" afterDir="false" />
-    </list>
+    <list default="true" id="6aee0680-8273-4ee5-ad8a-7bbe692fd93d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spectral_subtraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="138">
               <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -61,8 +44,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="529">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/speech_enhancement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="2783">
               <caret line="125" column="15" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="15" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -126,10 +112,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="353" />
+    <option name="width" value="1870" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -325,16 +311,18 @@
       <workItem from="1554196424698" duration="259000" />
       <workItem from="1554196838117" duration="258000" />
       <workItem from="1555411591417" duration="71000" />
+      <workItem from="1557904313763" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46237000" />
+    <option name="totallyTimeSpent" value="46422000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="21" y="353" width="1870" height="1096" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15104741" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15303868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,7 +343,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" x="0" y="0" width="417" height="896" id="Documentation" order="3" sideWeight="0.5005192" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Database" order="4" weight="0.32983425" />
-      <window_info active="true" anchor="right" id="SciView" order="5" sideWeight="0.49948078" visible="true" weight="0.26074973" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.49948078" weight="0.26074973" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,6 +449,16 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/SVD/SVD_speech_enhancement.ipynb" />
+    <entry file="file://$PROJECT_DIR$/spectral_subtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/svd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -471,19 +469,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spectral_subtraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/speech_enhancement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="2783">
           <caret line="125" column="15" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -493,8 +481,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mmse_stsa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="529">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
