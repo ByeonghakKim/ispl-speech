@@ -21,6 +21,6 @@ URL: https://ieeexplore.ieee.org/document/8933025
 - Python 3.x
 - Tensorflow 1.15.0
 
-## Acknowledgement
-[2] https://github.com/Rayhane-mamah/Tacotron-2
-[3] https://github.com/jtkim-kaist/VAD
+## References and Resources
+- https://github.com/Rayhane-mamah/Tacotron-2
+- https://github.com/jtkim-kaist/VAD
