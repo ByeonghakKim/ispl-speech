@@ -1,4 +1,4 @@
-# Acoustic feature extraction
+# Voice Activity Detection
 
 <center><img src="./image/pic1.png"></center>
 
