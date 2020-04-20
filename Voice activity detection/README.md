@@ -18,7 +18,7 @@ Younglo Lee, Jeongki Min, David Han, Hanseok Ko, "Spectro-Temporal Attention-Bas
 URL: https://ieeexplore.ieee.org/document/8933025
 
 ## Prerequisites
-- Python 3.X
+- Python 3.x
 - Tensorflow 1.15.0
 
 ## Acknowledgement
