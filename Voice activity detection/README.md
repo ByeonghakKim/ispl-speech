@@ -13,7 +13,7 @@
   * [References](#references)
     
 ## Voice Activity Detection
-- Tensorflow implementation for voice activity detection in tensorflow:
+- Tensorflow implementation for voice activity detection in tensorflow.
 - Younglo Lee, Jeongki Min, David Han, Hanseok Ko, "Spectro-Temporal Attention-Based Voice Activity Detection," IEEE Signal Processing Letters, Vol. 27, Issue 1, pp. 131-135, Jan, 2020.
 - URL: https://ieeexplore.ieee.org/document/8933025
 
